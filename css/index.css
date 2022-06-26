@@ -1,0 +1,10 @@
+div.container-fluid {
+  display: block;
+  margin-top:  5%;
+  text-align: center;
+}
+
+body {
+  background: url("../img/hand.jpg");
+  background-size: 300px 200px;
+}
